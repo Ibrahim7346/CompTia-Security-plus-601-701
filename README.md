@@ -17,7 +17,7 @@ I dedicated **two months** to studying and building a solid foundation in cybers
 ---
 
 ## 📜 Certificate / Badges
-![Security+ Certificate](link-to-your-certificate-or-badge)
+![Security+ Certificate](Screenshot_20260329_125459_WhatsApp.jpg)
 
 ---
 
